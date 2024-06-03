@@ -24,7 +24,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SAMi-Rn/LifeAware.git
+   git clone https://github.com/HarmanbirD/LifeAware.git
 2. Open the project in your favourite Android development IDE.
 
 3. Build the project and run it on an Android 13 compatible device or emulator.
